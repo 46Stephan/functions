@@ -10,9 +10,9 @@ function perfeito(value) {
             soma = soma + i
         }
     }
-    if(soma == value){
+    if (soma == value) {
         document.write('PERFEITO!');
-    }else{
+    } else {
         document.write('IMPERFEITO!');
     }
 }

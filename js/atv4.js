@@ -1,6 +1,6 @@
 /* Crie uma função que recebe por parâmetro o tempo de duração de uma fábrica expressa em segundos e retorna esse tempo em horas,minutos e segundos. */
 
-function horas (segundos){
+function horas(segundos) {
     let minutos = segundos / 60;
     let horas = segundos / 3600;
 

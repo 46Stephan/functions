@@ -3,9 +3,9 @@ Esta função será chamada ao abrir a página e mostrará uma mensagem no conso
 NomeAplicação” e um alerta informando “Bem vindo à aplicação
 NomeApliação”. Sendo que o nome da aplicação deve ser salvo em uma variável para mostrar nas mensagens.*/
 
-function mostrarMensagem(){
+function mostrarMensagem() {
     const nomeAplic = 'Aplicação1';
-    
+
     console.log(`Acesso à aplicação ${nomeAplic} .`);
     alert(`Bem vindo à aplicação  ${nomeAplic}`);
 }

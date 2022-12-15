@@ -2,8 +2,8 @@
 Esta função será chamada ao abrir a página e mostrará um alerta com a média. Exemplo: “João, sua média é 70.” A função também deve mostrar no console.log() as notas recebidas. 
 Exemplo “Nota 1: 60,Nota 2: 70,Nota 3: 80”.*/
 
-function calcularMedia (n1, n2, n3){
-    let media = (n1+n2+n3) / 3;
+function calcularMedia(n1, n2, n3) {
+    let media = (n1 + n2 + n3) / 3;
 
     alert(`Stephan, a sua média é ${media}`);
 
